@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "738178282427",
+    "project_id": "loginbackend-762f7",
+    "storage_bucket": "loginbackend-762f7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738178282427:android:6343e6054fcd62cda74a9e",
+        "android_client_info": {
+          "package_name": "com.example.onecart_kasaragod"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGfQPQl1leGaO_KZpndH_tRvx8MocSkWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738178282427:android:3a8ff7182fa82333a74a9e",
+        "android_client_info": {
+          "package_name": "com.example.registration_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGfQPQl1leGaO_KZpndH_tRvx8MocSkWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
